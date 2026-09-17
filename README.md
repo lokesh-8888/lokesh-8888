@@ -115,21 +115,6 @@
 
 ---
 
-## 📈 GitHub Analytics & Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=lokesh-8888&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=818CF8&bg_color=0D1117" alt="Lokesh's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=lokesh-8888&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=6366F1" alt="Lokesh's GitHub Streak" width="49%" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-8888&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="60%" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
